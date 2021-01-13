@@ -1,18 +1,3 @@
-<!--
-    DO NOT CHANGE THIS FILE - IT MAY BE UPDATED DURING THE ASSIGNMENT
--->
-## Seddit Backend
-
-You are given a backend server for seddit written in Python.
-
-Do not change any file in the backend directory.
-
-You only submit the seddit frontend.
-
-Any changes you make to the backend will be lost.
-
-If you depend on changes you make to the backend your code will break.
-
 ## Running the Backend @ CSE
 
 Running the backend on a CSE machine is simple:
